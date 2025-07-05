@@ -48,10 +48,10 @@ git commit -m "Changes for PullReq"
 git push origin test-pr
 ```
 
-# Then create Pull Request via GitHub
+Then create Pull Request via GitHub
 
 Merge Event
 
-Create PR via GitHub 
+ - Create PR via GitHub 
 
-Click "Merge pull request"
+ - Click "Merge pull request"
