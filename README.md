@@ -41,11 +41,11 @@ git push origin main
 Pull Request
 
 ```bash
-git checkout -b test-branch
-echo "PR content" >> pr.txt
+git checkout -b test-pr
+echo "PullR changes" >> pull-file.txt
 git add .
-git commit -m "PR test"
-git push origin test-branch
+git commit -m "Changes for PullReq"
+git push origin test-pr
 ```
 
 # Then create Pull Request via GitHub
